@@ -1,0 +1,7 @@
+matplotlib==3.11.2
+numpy==2.4.6
+pandas==3.1.0
+pip==26.2.2
+PyYAML==6.0.4
+scikit-learn==1.9.1
+seaborn==0.13.2
